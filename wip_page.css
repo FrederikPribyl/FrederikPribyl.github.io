@@ -1,0 +1,19 @@
+#disclaimer_box {
+    /* height: 100px; */
+    line-height: 60vh;
+    text-align: center;
+}
+
+#disclaimer_text{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+    font-size: 32px;
+    font-family: "WorkSans";
+    color: #0f1c27;
+}
+
+@font-face {
+    font-family: "WorkSans";
+    src: url(fonts/WorkSans/WorkSans-VariableFont_wght.ttf);
+}
